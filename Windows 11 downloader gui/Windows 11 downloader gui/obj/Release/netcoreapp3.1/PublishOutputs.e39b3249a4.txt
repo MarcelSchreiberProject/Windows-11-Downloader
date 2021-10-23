@@ -1,0 +1,5 @@
+C:\Users\marce\Downloads\windows downloader\Windows 11 downloader gui.exe
+C:\Users\marce\Downloads\windows downloader\Windows 11 downloader gui.dll
+C:\Users\marce\Downloads\windows downloader\Windows 11 downloader gui.deps.json
+C:\Users\marce\Downloads\windows downloader\Windows 11 downloader gui.runtimeconfig.json
+C:\Users\marce\Downloads\windows downloader\Windows 11 downloader gui.pdb
